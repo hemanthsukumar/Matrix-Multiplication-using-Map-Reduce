@@ -1,0 +1,8 @@
+Multiply.class
+Multiply$N_Mapper.class
+Triple.class
+Pair.class
+Multiply$MxN_Red.class
+Multiply$MxN_Reducer.class
+Multiply$M_Mapper.class
+Multiply$MxN_Map.class
